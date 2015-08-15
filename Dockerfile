@@ -1,3 +1,4 @@
 FROM kalilinux/kali-linux-docker
 
-RUN apt-get install metasploit
+RUN apt-get update --fix-missing
+RUN apt-get install -y metasploit
