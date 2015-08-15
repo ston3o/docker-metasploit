@@ -6,7 +6,7 @@ Metasploit Framework http://www.metasploit.com/
 Quick Start
 ---
 
-`docker run --name metasploit -it jcherqui/docker-metasploit msf`
+`docker run --name metasploit -it jcherqui/docker-metasploit`
 
 License
 ---
